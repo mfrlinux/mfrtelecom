@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap](http://startbootstrap.com/) - [Portfolio Item](http://startbootstrap.com/template-overviews/portfolio-item/)
 
 [Portfolio Item](http://startbootstrap.com/template-overviews/portfolio-item/) is an individual portfolio item template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
@@ -24,3 +25,6 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-portfolio-item/blob/gh-pages/LICENSE) license.
+=======
+# mfrtelecom
+>>>>>>> f6980d3eb99b65b3010f97a01ad2994161a2fbb2
